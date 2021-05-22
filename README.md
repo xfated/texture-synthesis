@@ -3,6 +3,8 @@ Matlab implementation of texture synthesis with non-parametric sampling. (Efros 
 
 Part of NUS EE4212 - Computer Vision Assignment
 
+- Implemeted priority queue and vectorization to accelerate synthesis.
+
 ## Examples
 #### BEFORE &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; AFTER
 ![texture2_bef](./texture/texture2.jpg) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![texture2_aft](./outputs/texture2_synth.jpg)  
